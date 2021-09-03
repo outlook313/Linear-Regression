@@ -1,5 +1,5 @@
 # machine learning Algorithms
-List of Common Machine Learning Algorithms
+Machine Learning Algorithms
 Here is the list of commonly used machine learning algorithms. These algorithms can be applied to almost any data problem:
 
 Linear Regression
